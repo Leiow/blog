@@ -74,7 +74,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "简简单单的写写BUG吧，去NMLGB的狗屁生活"
-sidebar-avatar: /img/avatar-leiow.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-leiow.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
