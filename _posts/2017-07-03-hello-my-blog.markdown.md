@@ -4,7 +4,7 @@ title : "Hey, My Blog"
 subtitle : "Hey, myself, my blog"
 date : 2017-07-03 14:00:00
 author : "Leiow"
-header-img : "img/post-bg-201707301400"
+header-img : "img/post-bg-201707301400.jpg"
 catalog : true
 tags : 
     - 生活
