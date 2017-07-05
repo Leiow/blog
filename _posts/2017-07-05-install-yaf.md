@@ -91,4 +91,19 @@ $PHP_AUTOCONF environment variable. Then, rerun this script.
 
 > 使用brew安装autoconf
 
+## phpize介绍
+
+> phpize命令是用来准备 PHP 扩展库的编译环境的。
+> 下面例子中，扩展库的源程序位于 extname 目录中：
+
+```
+cd extend
+/usr/local/bin/phpize
+./configure
+make && make install
+```
+成功的创建extend.so并放置于PHP的扩展目录中。只有需要修改php.ini，添加extention=extend.so之后，就可以使用extend.so扩展了。
+
+使用phpize命令时，需要依赖autoconf依赖库。需要提前安装。
+
 
