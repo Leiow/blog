@@ -1,6 +1,7 @@
 ---
 layout : post
-title : "yaf安装"
+title : "Yaf 学习记录（1）"
+subtitle : "Yaf 安装"
 date : 2017-07-05 15:40:00
 author : "Leiow"
 header-img : "img/post-bg-install-yaf.jpg"
@@ -8,6 +9,7 @@ catalog : true
 tags : 
     - 技术
     - PHP
+    - Yaf
 ---
 
 > This is my own way
