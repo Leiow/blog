@@ -439,7 +439,7 @@ object(Yaf_Router)#5 (2) {
 
 ### PS
 
-[laruence的手册]("http://www.laruence.com/manual/")有点老旧了，有些地方写的不对，比如[这里](http://www.laruence.com/manual/yaf.routes.static.html)，在介绍[命令行使用Yaf]("http://www.laruence.com/manual/yaf.incli.times.html")时候，以Yaf_Route_Simple为例。这个类的构造函数可以接受五个参数，而当五个参数都给了默认值的时候，路由的类中routed属性为1。可是目前最新版本的Yaf，这个类的构造函数，已经改为三个参数了（详见[PHP手册]("http://cn2.php.net/manual/zh/yaf-route-simple.construct.php")和[Github]("https://github.com/laruence/yaf/blob/master/routes/yaf_route_simple.c")）。另外文中还有部分语法错误。
+[laruence的手册]("http://www.laruence.com/manual/")有点老旧了，有些地方写的不对。
 个人并不是要喷什么，而是说，现在学习Yaf，laruence的手册，可以作为参考，带你慢慢入门。如果遇到问题，还是自己动手实现以下，或者参考PHP手册和Github上的说明和源码比较好。
 
 
