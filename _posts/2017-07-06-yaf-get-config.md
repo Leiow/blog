@@ -439,8 +439,8 @@ object(Yaf_Router)#5 (2) {
 
 ### PS
 
-[laruence的手册]("http://www.laruence.com/manual/")有点老旧了，有些地方写的不对。
-个人并不是要喷什么，而是说，现在学习Yaf，laruence的手册，可以作为参考，带你慢慢入门。如果遇到问题，还是自己动手实现以下，或者参考PHP手册和Github上的说明和源码比较好。
+[laruence的手册](http://www.laruence.com/manual/)有点老旧了，有些地方写的不对。
+个人并不是要喷什么，而是说，现在学习Yaf，laruence的手册，可以作为参考，带你慢慢入门。如果遇到问题，还是自己动手实现以下，或者参考[PHP手册](http://cn2.php.net/manual/zh/book.yaf.php)和[Github](https://github.com/laruence/yaf)上的说明和源码比较好。
 
 
 ***That's all***
