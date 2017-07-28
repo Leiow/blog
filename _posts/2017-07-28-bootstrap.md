@@ -4,7 +4,7 @@ title : "最近总结"
 subtitle : "Bootstrap相关"
 date : 2017-07-28 11:27:00
 author : "Leiow"
-header-img : "img/post-bg-bootstrap.jpg"
+header-img : "img/post-bg-macbook.jpg"
 catalog : true
 tags : 
     - 技术
